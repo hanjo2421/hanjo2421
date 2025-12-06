@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ### CS Student at UC Berkeley | AI/ML Researcher | Systems Engineer
 
 🎓 **B.A. in Computer Science** at UC Berkeley
+
 📌 Interested in **AI/ML systems**, **speech & audio**, **robotics**, **distributed systems**, and **factory automation**
 
 ## 🔬 Research Experience
