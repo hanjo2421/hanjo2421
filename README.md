@@ -71,6 +71,7 @@ Here are some ideas to get you started:
 **Real-Time Voice Conversion System (BAIR)**
 - Achieved 61.4ms latency (13.3% faster than Google StreamVC)
 - Published at ACL 2025 Systems Demo Track
+- [Project page with paper / demo / code](https://berkeley-speech-group.github.io/RT-VC/)
 
 **Automated Pan-Tilt Camera System (BEST Lab)**
 - Reduced data collection time from 2 hours to 4 minutes across 135 positions
