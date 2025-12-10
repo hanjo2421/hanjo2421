@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## 🔬 Research Experience
 - **Berkeley Speech Group (BAIR)** — Real-Time Voice Conversion, Conversational Behavior Reasoning, Spatial Audio  
   *Sep 2024 – Present*  
-  *Publications: ACL 2025 Systems Demo; ICLR 2026 (Under Review)*
+  *Publications: [ACL 2025 Systems Demo](https://arxiv.org/abs/2506.10289); ICLR 2026 (Under Review)*
 - **Berkeley Emergent Space Tensegrities Lab** — Autonomous robotics systems, PID optimization  
   *Sep 2025 – Present*
 - **Sogang University Digital Lab** — Keyword Spotting  
