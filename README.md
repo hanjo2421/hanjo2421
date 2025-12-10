@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 - **Berkeley Emergent Space Tensegrities Lab** — Autonomous robotics systems, PID optimization  
   *Sep 2025 – Present*
 - **Sogang University Digital Lab** — Keyword Spotting  
-  *May 2024 – Aug 2024*  
+  *May 2024 – Aug 2024*
+- **UC Berkeley Math & Data Science Lab** — Collatz Conjecture  
+  *Sep 2022 – Jan 2023*  
 
 ## 💼 Industry Experience
 - **Honda Research Institute USA — 99P Labs** — AI Engineer Intern  
