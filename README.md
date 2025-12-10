@@ -78,8 +78,8 @@ Here are some ideas to get you started:
 - Optimized PID control achieving 100% reliability and 75% error reduction
 
 **AI Research Infrastructure (Honda — 99P Labs)**
-- Built prototypes for Interactive Research Ideation System (IRIS)
-- Designed conversation pipelines and Multi-Context Processing modules
+- Developed AI Research Assistant with LangGraph pipelines and multi-source search (Web + arXiv)
+- Integrated Model Context Protocol (MCP) for cross-platform knowledge retrieval (50+ sources/session)
 
 ---
 
